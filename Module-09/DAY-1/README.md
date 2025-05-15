@@ -1,4 +1,4 @@
-# Ex.No:9(A)          DATA I/O STREAM
+# Ex.No:9(A)  DATA I/O STREAM
 ## AIM:
 To create a Java Program to store a String Value in a file "testout.txt" using Data Output Stream.
 
@@ -14,23 +14,24 @@ To create a Java Program to store a String Value in a file "testout.txt" using D
  ```
 /*
 Program to implement a DATA I/O STREAM using Java
-Developed by: 
-RegisterNumber:  
+Developed by: DEEPIKA S
+RegisterNumber: 212222230028
 */
 ```
 
 ## Sourcecode.java:
-
-
-
-
-
-
+```
+FileOutputStream fout=new FileOutputStream("testout.txt");    
+DataOutputStream dout=new DataOutputStream(fout);
+                 dout.writeUTF("This is a file created by using Data Stream"); 
+                 dout.close();    
+                 fout.close();
+                 System.out.println("Successfully Completed");
+```
 
 ## OUTPUT:
 
-
+![image](https://github.com/user-attachments/assets/e1d17edb-9af8-4665-9be3-f9d2f09e106f)
 
 ## RESULT:
 Thus the Java Program to store a String Value in a file "testout.txt" using DataOutputStream was executed and verified successfully.
-

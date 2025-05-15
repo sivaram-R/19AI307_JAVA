@@ -17,33 +17,38 @@ a)	Create an instance of the `addition` class called `ad`
 b)	Call the `display(8, 9)` method on the `ad` object
 7.	End
 
-
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a access modifiers using Java
-Developed by: 
-RegisterNumber:  
+Developed by: DEEPIKA S
+RegisterNumber: 212222230028 
 */
 ```
 
 ## Sourcecode.java:
-
-
-
-
-
-
+```
+class A
+{ 
+    public void display() 
+    { 
+        int a=8,b=9;
+        System.out.println(a+b); 
+    }
+}
+public class Main{
+    public static void main(String args[])
+    {
+        A obj = new A();
+        obj.display();
+    }
+}
+```
 
 ## OUTPUT:
 
-
+![Screenshot 2025-04-30 141557](https://github.com/user-attachments/assets/834be99a-0747-40ce-ac6c-345dfaa49ef7)
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.
-
 

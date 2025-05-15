@@ -20,23 +20,43 @@ j.	End the program.
  ```
 /*
 Program to implement a STRING WRITER
-Developed by: 
-RegisterNumber:  
+Developed by: DEEPIKA S
+RegisterNumber: 212222230028
 */
 ```
 
 ## Sourcecode.java:
+```
+import java.io.StringWriter;
 
+public class Main {
+  public static void main(String[] args) {
 
+    String data = "String Writer";
 
+    try {
+      // Create a StringWriter with default string buffer capacity
+      StringWriter output = new StringWriter();
 
+      // Writes data to the string buffer
+      output.write(data);
 
+      // Prints the string writer
+      System.out.println("Data in the StringWriter: " + output);
 
+      output.close();
+    }
+
+    catch(Exception e) {
+      e.getStackTrace();
+    }
+  }
+}
+```
 
 ## OUTPUT:
 
-
+![image](https://github.com/user-attachments/assets/9cc5a704-a883-435a-9610-b6a5e3ffab31)
 
 ## RESULT:
 Thus, implementation of  a Java program was successfully reads a string from the user and uses StringWriter to write and print the string to the output screen.
-
