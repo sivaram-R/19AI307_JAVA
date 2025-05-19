@@ -18,8 +18,8 @@ To write a Java program that reads an array size and elements from the user and 
  ```
 /*
 Program to implement a Second Largest Element in an Array
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028 
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
