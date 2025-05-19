@@ -26,8 +26,8 @@ To write a parameterized constructor in the Employee class that initializes name
  ```
 /*
 Program to implement a Parameterized Constructor Using Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028  
+Developed by: SIVARAM R
+RegisterNumber: 212222100050  
 */
 ```
 
