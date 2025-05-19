@@ -19,8 +19,8 @@ To Create a java program to display the value of area of triangle get the radius
  ```
 /*
 Program to implement a tightly encapsulated class using Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028 
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
