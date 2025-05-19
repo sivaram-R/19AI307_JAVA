@@ -15,8 +15,8 @@ To implement a Java Program to write a String in a file "testout.txt" using File
  ```
 /*
 Program to implement a IO File Stream using Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028 
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
