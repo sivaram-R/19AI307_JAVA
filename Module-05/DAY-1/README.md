@@ -22,8 +22,8 @@ To Create a java program to display name and location of the vehicle and use the
  ```
 /*
 Program to implement a Data Hiding & Encapsulation using Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028 
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
