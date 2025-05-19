@@ -18,8 +18,8 @@ To Create a java program to insert and display the key and values using map inte
  ```
 /*
 Program to implement a RELATED TO MAP CONCEPTS using Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
