@@ -18,8 +18,8 @@ To Create a java program to read input and  print length of the string in java a
  ```
 /*
 Program to implement a String Builder using Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028  
+Developed by: SIVARAM R
+RegisterNumber: 212222100050  
 */
 ```
 
