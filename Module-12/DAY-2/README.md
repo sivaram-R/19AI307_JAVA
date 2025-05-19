@@ -16,8 +16,8 @@ To Write a java program to sort the list based on null value for name using comp
  ```
 /*
 Program to implement a COMPARABLE & COMPARATOR INTERFACE using Java
-Developed by: Preethi A A
-RegisterNumber: 212222110035
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
