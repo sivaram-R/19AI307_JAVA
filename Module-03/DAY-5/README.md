@@ -17,8 +17,8 @@ To write a Java program that creates a StringBuilder object and “sb” is poin
  ```
 /*
 Program to implement a StringBuilder Object Reference in Java
-Developed by: DEEPIKA S
-RegisterNumber: 212222230028
+Developed by: SIVARAM R
+RegisterNumber: 212222100050
 */
 ```
 
